@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "82859593230",
+    "project_id": "mad-prac6-rayzin",
+    "storage_bucket": "mad-prac6-rayzin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82859593230:android:19414acb6629983162f65f",
+        "android_client_info": {
+          "package_name": "com.example.mad21_practical_2___android_activity_ngrayzin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82859593230-0hdv72hbfso3r0bjk03n9586dufmnsjt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6FV2_MwMQigjHlPkFODiEPS2i1J_YkUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82859593230-0hdv72hbfso3r0bjk03n9586dufmnsjt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
